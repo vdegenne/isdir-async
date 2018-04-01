@@ -1,0 +1,20 @@
+{
+  "name": "isdir-async",
+  "version": "1.0.0",
+  "description": "A no-deps async version of isDirectory, to use with or without await.",
+  "main": "index.js",
+  "keywords": [
+    "async",
+    "nodejs",
+    "isdir"
+  ],
+  "author": {
+    "name": "Valentin Degenne",
+    "email": "vdegenne@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}

@@ -1,0 +1,7 @@
+.clang-format
+.github
+.gitignore
+.vscode
+node_modules
+src/test
+test
