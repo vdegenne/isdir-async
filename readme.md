@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/node-%3E=8.0-blue.svg?style=flat-square" />
+
 # isdir-async
 
 A no-deps async version of isDirectory, to use with or without await.
